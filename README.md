@@ -7,6 +7,7 @@ CaptureC analysis code by James Davies - to serve as supplements to the publicat
 1a) Helper scripts :
 
 dpngenome3_1.pl (generates RE digestion fragments for your genome of interest)
+
 dpnII2E.pl (generates RE digestion fragments for your sample)
 
 1b) The master captureC analyser :
